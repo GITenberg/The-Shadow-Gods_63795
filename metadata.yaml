@@ -8,6 +8,9 @@ contributor:
     deathdate: 1969
     gutenberg_agent_id: '52291'
     url: http://www.gutenberg.org/2009/agents/52291
+covers:
+- cover_type: archival
+  image_path: 63795-h/images/cover.jpg
 creator:
   author:
     agent_name: Garson, Bill
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '33727'
     url: http://www.gutenberg.org/2009/agents/33727
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63795#The-Shadow-Gods
 gutenberg_issued: '2020-11-17'
 gutenberg_type: Text
 identifiers:
